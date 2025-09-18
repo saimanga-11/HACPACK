@@ -1,0 +1,31 @@
+State,District,Year,Recharge_MCM,WaterLevel_m,Rainfall_mm,Soil_type,Annual_Extractable_GW_HAM,Status
+Tamil Nadu,Chennai,2020,120,8.2,1050,Sandy Clay,9800,Safe
+Tamil Nadu,Chennai,2021,115,8.8,960,Sandy Clay,9700,Semi-Critical
+Tamil Nadu,Chennai,2022,110,9.5,870,Sandy Clay,9500,Critical
+Tamil Nadu,Kanchipuram,2020,140,7.8,1120,Clay Loam,12000,Safe
+Tamil Nadu,Kanchipuram,2021,135,8.5,1010,Clay Loam,11800,Semi-Critical
+Tamil Nadu,Kanchipuram,2022,128,9.0,920,Clay Loam,11600,Critical
+Tamil Nadu,Madurai,2020,150,6.5,890,Red Loam,12500,Safe
+Tamil Nadu,Madurai,2021,142,7.2,820,Red Loam,12200,Semi-Critical
+Tamil Nadu,Madurai,2022,135,7.9,750,Red Loam,12000,Critical
+Tamil Nadu,Thiruvallur,2020,130,8.0,1080,Alluvial,11000,Safe
+Tamil Nadu,Thiruvallur,2021,125,8.7,970,Alluvial,10850,Semi-Critical
+Tamil Nadu,Thiruvallur,2022,118,9.3,880,Alluvial,10700,Critical
+Tamil Nadu,Ariyalur,2020,145,7.0,950,Black Cotton,11500,Safe
+Tamil Nadu,Ariyalur,2021,138,7.8,860,Black Cotton,11350,Semi-Critical
+Tamil Nadu,Ariyalur,2022,130,8.4,780,Black Cotton,11200,Critical
+Tamil Nadu,Ariyalur,2023,123,9.200000000000001,722,Black Cotton,11011,Critical
+Tamil Nadu,Ariyalur,2024,115,9.8,661,Black Cotton,10887,Critical
+Tamil Nadu,Ariyalur,2025,110,10.4,615,Black Cotton,10718,Critical
+Tamil Nadu,Chennai,2023,101,10.2,794,Sandy Clay,9355,Critical
+Tamil Nadu,Chennai,2024,92,10.7,743,Sandy Clay,9239,Critical
+Tamil Nadu,Chennai,2025,83,11.299999999999999,698,Sandy Clay,9094,Critical
+Tamil Nadu,Kanchipuram,2023,120,9.9,854,Clay Loam,11420,Critical
+Tamil Nadu,Kanchipuram,2024,112,10.700000000000001,784,Clay Loam,11302,Critical
+Tamil Nadu,Kanchipuram,2025,107,11.700000000000001,739,Clay Loam,11187,Critical
+Tamil Nadu,Madurai,2023,130,8.5,699,Red Loam,11893,Semi-Critical
+Tamil Nadu,Madurai,2024,124,9.3,628,Red Loam,11777,Critical
+Tamil Nadu,Madurai,2025,116,10.200000000000001,583,Red Loam,11615,Critical
+Tamil Nadu,Thiruvallur,2023,110,10.200000000000001,826,Alluvial,10543,Critical
+Tamil Nadu,Thiruvallur,2024,101,10.9,771,Alluvial,10399,Critical
+Tamil Nadu,Thiruvallur,2025,95,11.8,709,Alluvial,10259,Critical
